@@ -9,6 +9,7 @@ In this section, we will take a look at the core concepts of a linux operating s
 ## Linux Kernel
 
 #### If you have worked with any operating system, you have run into the term kernel. 
+Kernal is the major component in an operating system and the core interface b/w the computer's hardware and its processes 
 
 - The Linux kernel is monolithic, this means that the kernel carrries out CPU scheduling, memory management and several operations by itselfs. 
 - The Linux Kernel is also modular, which means it can extends its capabilities through the use of dynamically loaded kernel modules
